@@ -1,0 +1,12 @@
+---
+layout: post
+title:  'Bakery'
+date:   2018-10-07 22:00:00 +0300
+categories: hygge bakery
+---
+After a long working day, i’m sure, you want to eat something sweet, don’t you?
+
+Even if you prefer eat sweets on Sunday morning, you want to see gorgeous piece of cake or maybe it’s one big cookie? Anyway, let’s stop talking about it and go to bake a cake!
+
+![Bakery]({{ site.url }}/assets/bakery.jpg)
+

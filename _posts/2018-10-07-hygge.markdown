@@ -1,0 +1,13 @@
+---
+layout: post
+title:  'Hygge'
+date:   2018-10-06 23:00:00 +0300
+categories: hygge
+---
+
+It starts when household all at home, when ginger cookies are on a table and when winter comes and snowfalling down.
+
+Perfect for hygge time is Christmas tree. I can’t wait for Christmas, and you?
+
+![Hygge]({{ site.url }}/assets/hygge.jpg)
+
